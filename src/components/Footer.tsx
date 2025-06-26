@@ -1,4 +1,3 @@
-import React from 'react'
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faFacebook, faInstagram, faTwitter, faYoutube} from "@fortawesome/free-brands-svg-icons";
 
@@ -47,16 +46,16 @@ const Footer = () => {
 
                 </div>
             </div>
-            <hr/>
-            <div className="p-2 container">
+
+            <div className="p-2 container pt-8 border-t border-white/40">
                 <div className="flex flex-col md:flex-row items-center justify-between mt-3">
                     <div className="flex items-center">
                         <a href="" className="flex items-center space-x-2">
-                            <img src="src/assets/logo-iWUvXd4s.webp" className="size-12 rounded-full" alt="Logo"/>
-                            <span className="font-semibold text-3xl">Skill Mentor</span>
+                            <img src="src/assets/logo-iWUvXd4s.webp" className="size-16 rounded-full" alt="Logo"/>
+                            <span className="font-semibold text-5xl">Skill Mentor</span>
                         </a>
                     </div>
-                    <div className="text-gray-400">All rights reserved by Company 2025</div>
+                    <div className="text-gray-400">SkillMentor Inc. © Copyright 2025. All Rights Reserved.</div>
                 </div>
             </div>
 

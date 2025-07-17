@@ -1,4 +1,4 @@
-import CourceCard from "../components/common/CourceCard.tsx";
+import CourceCard from "./common/CourceCard.tsx";
 
 const Cources = () => {
     const corse = [

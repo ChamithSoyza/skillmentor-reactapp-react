@@ -1,7 +1,7 @@
-import Footer from "./Footer.tsx";
-import NavBar from "./NavBar.tsx";
-import HeroSection from "../views/HeroSection.tsx";
-import Cources from "../views/Cources.tsx";
+import Footer from "../components/common/Footer.tsx";
+import NavBar from "../components/common/NavBar.tsx";
+import HeroSection from "../components/views/HeroSection.tsx";
+import Cources from "../components/Cources.tsx";
 
 const Home = () => {
 

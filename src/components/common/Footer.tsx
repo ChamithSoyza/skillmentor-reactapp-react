@@ -51,7 +51,7 @@ const Footer = () => {
                 <div className="flex flex-col md:flex-row items-center justify-between mt-3">
                     <div className="flex items-center">
                         <a href="" className="flex items-center space-x-2">
-                            <img src="src/assets/logo-iWUvXd4s.webp" className="size-16 rounded-full" alt="Logo"/>
+                            <img src="../../assets/logo-iWUvXd4s.webp" className="size-16 rounded-full" alt="Logo"/>
                             <span className="font-semibold text-5xl">Skill Mentor</span>
                         </a>
                     </div>
